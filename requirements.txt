@@ -11,7 +11,7 @@ winter shoes can go into the cellar in the summer & vice versa => some 3-unit an
 size:
 3 shoe pairs wide => about 60cm
 1 shoe pair deep
-=> to accomodate for above, must be TODO units high, with this layout:
+=> to accomodate for above, must be 5 units (50cm) high, with this layout:
 
 	|________|        |________|        |________|
 	|  L  Ł  |o       |  |  |  |o       |  |__|==|o

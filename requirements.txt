@@ -2,18 +2,17 @@
 
 shoes:
  - 2 pairs high boots (30cm high)
- - 3 pairs ankle-high (20cm)
+ - 3-4 pairs ankle-high (20cm)
  - approx. 6 pairs 10cm, or potentially do 3 smaller compartments in 20cm (for sandals)
 =>  height unit is ~10cm
 
 winter shoes can go into the cellar in the summer & vice versa => some 3-unit and 1-unit compartments can be union instead of both
 
 size:
-3 shoe pairs wide => width unit is 1 shoe pair (20cm)
+3 shoe pairs wide => about 60cm
 1 shoe pair deep
 => to accomodate for above, must be TODO units high, with this layout:
 
-           open              open              open 
 	|________|        |________|        |________|
 	|  L  Ł  |o       |  |  |  |o       |  |__|==|o
 	|__|__|__|        |__|__|__|        |__|__|__|
@@ -22,7 +21,7 @@ size:
 	|__|__|__|o       |__|__|__|o       |__|__|__|o
                             winter            summer
 	 
-open: open shelf on top, but with borders so things don't fall off
+open shelf on top, with borders so things don't fall off
 L means reconfigurable -- notches for sliding a shelf there or not
 == is a shelf that has denser notches for fitting 3 spaces in 20cm
 o is a thingy for holding hiking sticks upright
